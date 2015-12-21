@@ -1,0 +1,3 @@
+oracle:
+  image: wnameless/oracle-xe-11g
+  ports: ['2000:22', '1521:1521', '8080:8080']
