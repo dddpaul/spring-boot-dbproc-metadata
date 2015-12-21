@@ -18,6 +18,8 @@ There are 2 requirements to reproduce this behaviour:
 * Network timeouts must be set for datasource. For example, these connections properties set timeouts for Oracle driver: `oracle.net.CONNECT_TIMEOUT=10000;oracle.jdbc.ReadTimeout=10000`.
 * Procedure parameters for `SimpleJdbcCall` must be discovered implicitly (by Spring JDBC itself). It's default option.
 
+[ApplicationTest.java](/src/test/java/com/github/dddpaul/dbproc_metadata/ApplicationTest.java) demonstrates this problem. 
+
 ## The possible solutions
  
 And there are several ways to protect your application:

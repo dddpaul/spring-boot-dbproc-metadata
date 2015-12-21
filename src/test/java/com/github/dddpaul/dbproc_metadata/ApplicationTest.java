@@ -1,7 +1,6 @@
-package com.github.dddpaul;
+package com.github.dddpaul.dbproc_metadata;
 
-import com.github.dddpaul.dbproc_metadata.Application;
-import com.github.dddpaul.dbproc_metadata.DaoImpl;
+import com.github.dddpaul.IpTables;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
