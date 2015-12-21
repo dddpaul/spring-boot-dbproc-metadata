@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>dbproc-metadata</name>
-    <description>Demonstrate metadata retrieve failure consequences</description>
+    <description>Demonstrate database function/procedure metadata retrieve failure consequences</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
