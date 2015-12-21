@@ -1,4 +1,4 @@
-package com.github.dddpaul;
+package com.github.dddpaul.dbproc_metadata;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.simple.SimpleJdbcCall;

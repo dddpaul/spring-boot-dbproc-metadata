@@ -1,4 +1,4 @@
-package com.github.dddpaul;
+package com.github.dddpaul.dbproc_metadata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,5 +1,7 @@
 package com.github.dddpaul;
 
+import com.github.dddpaul.dbproc_metadata.Application;
+import com.github.dddpaul.dbproc_metadata.DaoImpl;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
